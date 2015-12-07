@@ -1,4 +1,22 @@
 What happens when you initialize a repository? Why do you need to do it?
 
-
 .git gets created. It stores earlier versions of my files if i commited them.
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Creates space to files and allow to choose what files will be updated with 
+commits.
+
+
+cośtamfadfadvgadvg
+adfvadfvbsdfbv
+afbafg
+b
+asfgb
+af
+gb
+afg
+b
+asfg
+bgfs

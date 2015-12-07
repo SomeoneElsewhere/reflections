@@ -1,0 +1,4 @@
+git init 		- makes a repository in direction you are right now
+git status 		- shows status of repository
+git add	<filename>		- adds file to repository
+cośtam
