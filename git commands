@@ -1,4 +1,10 @@
-git init 		- makes a repository in direction you are right now
-git status 		- shows status of repository
-git add	<filename>		- adds file to repository
-cośtam
+git init               			- makes a repository in directory				
+git status             			- shows status of repository
+git add        <filename>       - adds file to repository
+git config --global core.editor "'c:\xx\yy\sciezka\exe'"
+                       			- "but to reference directly the program itself between simple quotes"
+git diff                        - changes between working and taging 										areas
+git diff --staged              	- diff between staging and latest commit
+git reset --hard               	- discards any changes to working area
+git checkout master            	- return to head branch
+git checkout 432a              	- detached head, latest commit is 432a
