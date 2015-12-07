@@ -15,3 +15,15 @@ change?
 
 I can easily compare staging, latest commit and working directory
 it is double - checked and easy to see what changes are made and commited.
+
+
+What are some situations when branches would be helpful in keeping your history 
+organized? How would branches help?
+
+To make different parallel improvements without changing original program 
+funcionality.
+
+
+How do the diagrams help you visualize the branch structure?
+
+Dunno.

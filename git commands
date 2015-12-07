@@ -10,3 +10,5 @@ git checkout master            	- return to head branch
 git checkout 432a              	- detached head, latest commit is 432a
 git branch						- shows branches
 git branch xxyyzz				- creates branch xxyyzz
+git log --graph --oneline branch1 branch 2 ...		- graph of branches
+git checkout -b new-branch-name	- create and skip to new branch
