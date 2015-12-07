@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+
+.git gets created. It stores earlier versions of my files if i commited them.
